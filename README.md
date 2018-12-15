@@ -5,6 +5,8 @@ LuaError AntiSpamBot Base on TD-CLI
 🔰
 ```sh
 🔰
+git clone https://github.com/TeleSudo/LeBeta.git && cd LeBeta && chmod +x install.sh && ./install.sh
+
 # کلون کردن سورس بر روی سرور و نصب
 # Clone Source on Server and install
 🔰
